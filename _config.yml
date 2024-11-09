@@ -12,6 +12,9 @@
 # Name of website
 title: Md Abdullahil Shafi
 
+# Short description of your site
+description: A virtual proof of my existence :P
+
 # Your name to show in the footer
 author: Md Abdullahil Shafi
 
@@ -103,10 +106,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "Md Abdullahil Shafi"
-
-# Add the website title to the title of every page
-title-on-all-pages: true
+# url-pretty: "Md Abdullahil Shafi"
 
 # Add the website title to the title of every page
 title-on-all-pages: true

@@ -1,6 +1,6 @@
 ### Job history
 
-- Senior Software Engineer at [TestReach Ltd](testreach.com) | Jan'22 ~ Present
+- Senior Software Engineer at [TestReach Ltd](https://testreach.com) | Jan'22 ~ Present
 
   - TestReach, based at Dublin, is one of the leading assessment platform in the world. Some names that using TestReach platform to run their assessment are CIPS, ACCA, BC etc.
 
@@ -15,7 +15,7 @@
     - Postgresql, MongoDB
 
 
-- Engineering Manager at [Durbin Labs Ltd](durbinlabs.com) | Aug'21 ~ Dec'22
+- Engineering Manager at [Durbin Labs Ltd](https://durbinlabs.com) | Aug'21 ~ Dec'22
 
   - Durbin Labs Limited is a Dhaka-based promising product-based start up working in software solutions for education, healthtech. Through the past years, it gained significant expertise in edutech and healttech.
 
@@ -35,20 +35,20 @@
     - Laravel
     - MySql
 
-- Software Engineer at [Japan Travel K.K.](japantravel.co.jp) | July'20 ~ Jyly'21
+- Software Engineer at [Japan Travel K.K.](https://japantravel.co.jp) | July'20 ~ Jyly'21
 
-- Software Engineer at [Durbin Labs Ltd](durbinlabs.com) | Nov'17 ~ Jun'20
+- Software Engineer at [Durbin Labs Ltd](https://durbinlabs.com) | Nov'17 ~ Jun'20
 
-- Junior Software Engineer at [Durbin Labs Ltd](durbinlabs.com) | Mar'17 ~ July'17
+- Junior Software Engineer at [Durbin Labs Ltd](https://durbinlabs.com) | Mar'17 ~ July'17
 
 
-- Android developer Intern at [Optimus Soft]()
+- Android developer Intern at [Optimus Soft]
 
   Optimus Soft was a Dhaka-based startup that worked in different sectors.
 
   I was involved in developing an Android app for the company.
 
-- Backend developer at [rOngin](rongin.com)
+- Backend developer at [rOngin](https://rongin.com)
 
   rOngin is a volunteery organization working for betterment of the street-people specially the street-children.
   rOngin is a bengali word meaning *colorful* works to make the life colorful for those who are leading a *colorless* life.
